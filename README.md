@@ -1,5 +1,1 @@
-app.controller('controllerName', function() {
-  this.myFunction = function(myArgument) {
-    myArgument.myArray.push(this.myObject)
-  }
-});
+The .js file is for good references to know when looking at syntax.
